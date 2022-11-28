@@ -13,7 +13,7 @@ toc: true
 
 ---
 
-![]({{ site.baseurl }}/images/finalquizscore.png)
+![](finalquizscore.png)
 
 ### Questions
 A lot of the questions consisted of those on collaboration and its benefits. It also asked questions about the Internet, such as protocols and data transmissions. There were also many questions that gave a block of code and asked for the result or an error in the code. A few problems even described programs and asked potential errors, inputs, outputs, and uses. Some questions asked about coding and data types, such as lists, strings, and variables. There were also some questions on binary numbers, algorithms, indexes, sequences, and results of code. Most of these questions were fairly straightforward, but some of them were misleading, and required a lot of thinking.
