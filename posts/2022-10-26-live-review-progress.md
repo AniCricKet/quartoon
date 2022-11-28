@@ -48,4 +48,4 @@ git pull
 
 ## Proof of Commits
 
-![](/commitgraph.png "Photo of our team's commit history")
+![](commitgraph.png "Photo of our team's commit history")
