@@ -1,0 +1,25 @@
+*.swp
+~*
+*~
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+*.xml
+vendor
+_notebooks/.ipynb_checkpoints
+# Local Netlify folder
+.netlify
+.tweet-cache
+__pycache__
+_posts/2020-02-20-test.md
+_posts/2022-08-09-fortnite-quiz.md
+_posts/2022-08-28-aniket-google-doc.md
+_posts/2022-08-29-aniketquiz.md
+_posts/2022-08-29-AP-CSP-EC.md
+_posts/2022-08-24-firstnotebook.md
+_posts/2022-08-28-bashnotebook.md
+_posts/2022-08-29-python-list.md
+_posts/2022-09-24-javascript.md
+
+/.luarc.json
